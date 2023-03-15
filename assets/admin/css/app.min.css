@@ -1,0 +1,25 @@
+/*.flexigrid div.form-div input[type=text],
+.flexigrid div.form-div input[type=password] {
+    height: auto!important
+}*/
+
+.checkbox,
+.radio {
+    display: inline;
+    margin-bottom: 0;
+    margin-top: 5px
+}
+
+.ajax_list .fa {
+    font-size: 18px;
+    color: inherit;
+    text-decoration: none
+}
+
+.skin-red .sidebar-menu>li.active>a, .skin-red .sidebar-menu>li:hover>a {
+    color: #fff !important;
+    background: #1e282c !important;
+    border-left-color: #93b2ea;
+}
+
+/*# sourceMappingURL=app.min.css.map */

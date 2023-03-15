@@ -1,0 +1,144 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-31 05:52:09 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 05:52:11 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 07:07:51 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:27:15 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:27:44 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:27:58 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:28:25 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:28:30 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:28:38 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:36:09 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:36:14 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:42:46 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:50:46 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:50:50 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:50:57 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:51:50 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:53:36 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:53:37 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:53:41 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:53:41 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:53:50 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:53:52 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:53:57 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:54:00 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:54:03 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:54:05 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:54:11 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:54:17 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:55:11 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:55:11 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:55:13 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:55:13 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:55:19 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:55:19 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:57:27 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:57:27 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:57:54 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:57:54 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:59:01 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:59:01 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:59:30 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:59:30 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:59:39 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 09:59:39 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:00:31 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:00:31 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:00:50 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:00:50 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:02:05 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:02:05 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:03:14 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:03:14 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:07:38 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:07:38 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:10:14 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:10:14 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:21:02 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:21:02 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:21:04 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:21:04 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:21:07 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:24:37 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:28:31 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 05:46:55 --> Severity: error --> Exception: syntax error, unexpected '$profile' (T_VARIABLE) /var/www/system/data/www/itbsh.com/books.itbsh.com/application/modules/seller/views/admin_money_request.php 9
+ERROR - 2022-12-31 10:46:56 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:46:56 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 05:47:16 --> Severity: error --> Exception: syntax error, unexpected '$profile' (T_VARIABLE) /var/www/system/data/www/itbsh.com/books.itbsh.com/application/modules/seller/views/admin_money_request.php 9
+ERROR - 2022-12-31 10:47:16 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:47:16 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:47:29 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:47:29 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 05:48:27 --> Severity: error --> Exception: syntax error, unexpected '$profile' (T_VARIABLE) /var/www/system/data/www/itbsh.com/books.itbsh.com/application/modules/seller/views/admin_money_request.php 9
+ERROR - 2022-12-31 10:48:28 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:48:28 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:48:41 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:48:41 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:48:51 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:48:52 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:49:06 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:49:06 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:49:16 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:49:16 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:49:47 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:49:47 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:50:32 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:50:32 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:51:16 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:51:16 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:52:05 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:52:06 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:57:47 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:57:48 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:57:56 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:58:53 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:58:53 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:58:59 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:59:04 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:59:07 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:59:07 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:59:15 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:59:15 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:59:38 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:59:42 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 10:59:56 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:01:16 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:01:20 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:01:25 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:02:16 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 06:02:21 --> Query error: Unknown column 'pre_credit_cost' in 'field list' - Invalid query: INSERT INTO `pre_admin_money_transactions` (`user_id`, `user_type`, `user_name`, `user_paypal_email`, `user_bank_ac_details`, `pre_credit_cost`, `no_of_credits_to_be_converted`, `total_amount`) VALUES ('16', 'seller', 'Seller ', 'test@testingeyebooks.com', NULL, '0.1', '20', 2)
+ERROR - 2022-12-31 11:03:44 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 06:03:47 --> Query error: Unknown column 'pre_credit_cost' in 'field list' - Invalid query: INSERT INTO `pre_admin_money_transactions` (`user_id`, `user_type`, `user_name`, `user_paypal_email`, `user_bank_ac_details`, `pre_credit_cost`, `no_of_credits_to_be_converted`, `total_amount`) VALUES ('16', 'seller', 'Seller ', 'test@testingeyebooks.com', NULL, '0.1', '20', 2)
+ERROR - 2022-12-31 11:03:56 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:04:00 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 06:04:02 --> Query error: Column 'user_bank_ac_details' cannot be null - Invalid query: INSERT INTO `pre_admin_money_transactions` (`user_id`, `user_type`, `user_name`, `user_paypal_email`, `user_bank_ac_details`, `per_credit_cost`, `no_of_credits_to_be_converted`, `total_amount`) VALUES ('16', 'seller', 'Seller ', 'test@testingeyebooks.com', NULL, NULL, '20', 0)
+ERROR - 2022-12-31 11:04:43 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:33:55 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:33:57 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 06:34:01 --> Query error: Column 'per_credit_cost' cannot be null - Invalid query: INSERT INTO `pre_admin_money_transactions` (`user_id`, `user_type`, `user_name`, `user_paypal_email`, `user_bank_ac_details`, `per_credit_cost`, `no_of_credits_to_be_converted`, `total_amount`) VALUES ('16', 'seller', 'Seller ', 'test@testingeyebooks.com', NULL, NULL, '20', 0)
+ERROR - 2022-12-31 11:35:27 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:36:05 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:36:17 --> 404 Page Not Found: ../modules/seller/controllers/Seller/admin_money_request
+ERROR - 2022-12-31 11:36:17 --> Severity: error --> Exception: syntax error, unexpected end of file /var/www/system/data/www/itbsh.com/books.itbsh.com/application/modules/seller/controllers/Seller.php 2703
+ERROR - 2022-12-31 11:36:19 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:36:23 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:37:14 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 11:37:16 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:22:39 --> Severity: error --> Exception: syntax error, unexpected ''__NO_OF_CREDITS_TO_BE_CONVERT' (T_CONSTANT_ENCAPSED_STRING), expecting ')' /var/www/system/data/www/itbsh.com/books.itbsh.com/application/modules/seller/controllers/Seller.php 4761
+ERROR - 2022-12-31 12:22:46 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:22:49 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:22:56 --> Severity: error --> Exception: syntax error, unexpected ''__NO_OF_CREDITS_TO_BE_CONVERT' (T_CONSTANT_ENCAPSED_STRING), expecting ')' /var/www/system/data/www/itbsh.com/books.itbsh.com/application/modules/seller/controllers/Seller.php 4761
+ERROR - 2022-12-31 12:23:01 --> Severity: error --> Exception: syntax error, unexpected ''__NO_OF_CREDITS_TO_BE_CONVERT' (T_CONSTANT_ENCAPSED_STRING), expecting ')' /var/www/system/data/www/itbsh.com/books.itbsh.com/application/modules/seller/controllers/Seller.php 4761
+ERROR - 2022-12-31 12:45:24 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:45:31 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:45:31 --> 404 Page Not Found: ../modules/seller/controllers/Seller/credits_transactions_history
+ERROR - 2022-12-31 12:45:35 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:45:44 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:45:51 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:46:02 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:46:42 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:50:49 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:50:58 --> 404 Page Not Found: /index
+ERROR - 2022-12-31 12:51:08 --> 404 Page Not Found: /index
